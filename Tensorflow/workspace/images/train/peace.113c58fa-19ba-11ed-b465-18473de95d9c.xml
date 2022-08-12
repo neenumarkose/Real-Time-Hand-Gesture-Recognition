@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>peace.113c58fa-19ba-11ed-b465-18473de95d9c.jpg</filename>
+	<path>C:\Users\neenu\Desktop\Artificial Intelligence_Sem 2\AIDI-2000-Applied Machine Learning\Final Project_Neenu\Version 3\Tensorflow\workspace\images\collectedimages\peace.113c58fa-19ba-11ed-b465-18473de95d9c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>180</ymin>
+			<xmax>204</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>
